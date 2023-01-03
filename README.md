@@ -1,3 +1,3 @@
-# Demo
+# Cpp files
 
-some texts that i wanted here
+This repository is used for uploading c++ codes that cover different concepts.
